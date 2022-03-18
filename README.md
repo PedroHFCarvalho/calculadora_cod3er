@@ -4,4 +4,4 @@ Calculadora feita em Java durante o curso da Cod3r,
 Front Feita em Swing
 
 Contexto:
-Calculadora com operações basicas.
+Calculadora com operações básicas.
